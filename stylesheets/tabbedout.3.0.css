@@ -1,0 +1,25 @@
+
+
+body {
+	background-color: #ddd;
+	font-family: Chivo:900, Helvetica;
+}
+
+header {
+	text-align: center;
+}
+
+.gh_button {
+	width: 200px;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+footer {
+	text-align: center;
+}
+
+#main_content > h1 {
+	text-align: center;
+}
